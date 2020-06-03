@@ -1,0 +1,5 @@
+Tiki_Monkey      2             22.0          4             19.0          14                19.0
+Barbara          EVEN          16.0          17            35.0          ODD		       71.0
+Flavino          7             18.0          ODD           38.0          25                56.0
+Kaylin           32            25.0          31            15.0          EVEN		       45.0
+Earl             ODD           38.0          EVEN          27.0          23                38.0
